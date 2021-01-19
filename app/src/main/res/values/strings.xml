@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My awesome app</string>
+    <string name="app_title_text">My awesome app title</string>
+    <string name="button1_text">Button 1</string>
+    <string name="button2_text">Button 2</string>
+    <string name="button3_text">Button 3</string>
+</resources>

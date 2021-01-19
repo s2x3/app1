@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое замечательное приложениеp</string>
+    <string name="app_title_text">Мой заголовок</string>
+    <string name="button1_text">Кнопка 1</string>
+    <string name="button2_text">Кнопка 2</string>
+    <string name="button3_text">Кнопка 3</string>
+</resources>
